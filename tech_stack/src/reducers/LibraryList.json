@@ -1,0 +1,50 @@
+[
+    {
+        "id": 0,
+        "title": "WebPack",
+        "description": "Webpack is an open-source JavaScript module bundler. Webpack takes modules with dependencies and generates static assets represent"
+    },
+    {
+        "id": 1,
+        "title": "React",
+        "description": "Webpack is an open-source JavaScript module bundler. Webpack takes modules with dependencies and generates static assets represent"
+    },
+    {
+        "id": 2,
+        "title": "Redux",
+        "description": "Webpack is an open-source JavaScript module bundler. Webpack takes modules with dependencies and generates static assets represent"
+    },
+    {
+        "id": 3,
+        "title": "React-Redux",
+        "description": "Webpack is an open-source JavaScript module bundler. Webpack takes modules with dependencies and generates static assets represent"
+    },
+    {
+        "id": 4,
+        "title": "ES-Lint",
+        "description": "Webpack is an open-source JavaScript module bundler. Webpack takes modules with dependencies and generates static assets represent"
+    },
+    {
+        "id": 5,
+        "title": "Babel",
+        "description": "Webpack is an open-source JavaScript module bundler. Webpack takes modules with dependencies and generates static assets represent"
+    },
+    
+    {
+        "id": 6,
+        "title": "Axios",
+        "description": "Webpack is an open-source JavaScript module bundler. Webpack takes modules with dependencies and generates static assets represent"
+    },
+    
+    {
+        "id": 7,
+        "title": "Redux-thunk",
+        "description": "Webpack is an open-source JavaScript module bundler. Webpack takes modules with dependencies and generates static assets represent"
+    },
+    
+    {
+        "id": 8,
+        "title": "Angular2",
+        "description": "Webpack is an open-source JavaScript module bundler. Webpack takes modules with dependencies and generates static assets represent"
+    }
+]
